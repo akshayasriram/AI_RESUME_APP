@@ -71,7 +71,7 @@ app.delete("/deleteResume/:index", (req, res) => {
 // ---------------- Upload PDF and parse ---------------- //
 app.post("/uploadResume", upload.single("resume"), async (req, res) => {
   if (!req.file) {
-    return res.status(400).json({ message: "No file uploaded" });
+    return res.status(400).json({ message: "No file is uploaded" });
   }
 
   try {
