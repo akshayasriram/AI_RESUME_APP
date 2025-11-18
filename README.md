@@ -69,11 +69,9 @@ ai-resume-tracker/
 
 📫 Contact
 
-Your Name – ankithakanneboina350@example.com
+Your Name – akshayasriram@example.com
 
-LinkedIn:https://www.linkedin.com/in/ankitha-kanneboina-45a545324/
-
-GitHub: github.com/ankithakanneboina
+GitHub: github.com/akshayasriram
 
 ⚡ License
 
