@@ -48,7 +48,7 @@ An AI-powered Resume Tracker App that allows users to **upload, parse, and track
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ankithakanneboina/ai-resume-tracker.git
+git clone https://github.com/akshayasriram/ai-resume-tracker.git
 
 ai-resume-tracker/
 ├─ backend/
